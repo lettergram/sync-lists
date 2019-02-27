@@ -78,7 +78,7 @@ for single_list in lists:
 print("\n---- REMOVED ITEMS -----\n")
 for item in list_items:
     if not list_items[item][1]:
-        print(item, "Removed")
+        print("Removed", item)
 print("\n")
 
 # Rewrite all the files to have the same single_list
