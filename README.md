@@ -12,14 +12,14 @@ This script takes in a list of files (defined in the script), identifies the las
 
 The expected form of the files to sync are:
 
-    Term 1
-    Term 2                                                                                      
+    Item 1
+    Item 2                                                                                      
     ....                                                                                        
-    Term N
+    Item N
     
-Where a term can represent one item to syncronize. 
+Where an item can represent one item to syncronize. 
 
-This could be a term, list, etc. the only requirement is that the line ends with a `\n`. 
+This could be a item, list, etc. the only requirement is that the line ends with a `\n`. 
 
 ## Example
 
