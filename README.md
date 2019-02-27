@@ -1,6 +1,8 @@
 # Sync Lists
 
-Simple script for syncronizing the content files across directories. Specifically, designed for lists. Keeping the most up-to-date edits (additions & removals).
+**Sync Lists** is a simple script for syncronizing the content files across directories. 
+
+Specifically, designed for lists, keeping the most up-to-date edits sync'd (additions & removals).
 
 This script takes in a list of files (defined in the script), identifies the last edited and syncs the terms across all of them. This could be useful if you are keeping a blacklist across multiple microservices, websites, apps, etc. Some examples: Blacklisted Terms, IPs, CSV entries, etc.
 
