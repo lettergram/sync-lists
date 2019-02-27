@@ -1,6 +1,6 @@
 # Sync Lists
 
-**Sync Lists** is a simple script for syncronizing the content files across directories. 
+**Sync Lists** is a simple script for synchronizing the content files across directories. 
 
 Specifically, designed for lists, keeping the most up-to-date edits sync'd (additions & removals).
 
